@@ -3,6 +3,7 @@
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
+  align-self: center;
 }
 
 /* Links inside the navbar */
