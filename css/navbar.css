@@ -70,3 +70,7 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+#active {
+  background-color: lightblue;
+}
