@@ -1,13 +1,18 @@
-  input.gsc-input {
-    border-color: #004220;
-	width:10px;  
-  }
-  input.gsc-search-button {
-    border-color: #004220;
-    background-color: #004220;
-	width:10px;
-  }
-
-  gsc-search-box table {
- width: 10px;
+#___gcse_0 {
+margin-top: 0px;
+}
+.gsc-input-box {
+margin-top: 0px;
+}
+td#gs_tti50 {
+padding: 0;
+}
+.gsc-control-cse {
+padding: 0;
+}
+input.gsc-search-button {
+border-color: white;
+background-color: #dd4814;
+margin-top: 8px;
+height: 100%;
 }
