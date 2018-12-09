@@ -1,4 +1,4 @@
-  input.gsc-input {
+  .gsc-input {
     border-color: #004220;
 	width:10px;  
   }
@@ -7,3 +7,7 @@
     background-color: #004220;
 	width:10px;
   }
+
+  gsc-search-box table {
+ width: 100px;
+}
