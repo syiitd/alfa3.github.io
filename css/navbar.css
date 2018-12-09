@@ -19,14 +19,25 @@
   text-decoration: none;
 }
 
+.gsst_a {
+  background-color: white !important;
+  font-size: 4px !important;
+  padding: 0px 0px !important;
+  /*margin-top: -1px !important;*/
+  position: absolute !important;
+  bottom: -11px !important;
+  right: 12px;
+}
+
 .navbar div div form table  {
   float: right;
-  font-size: 16px;
+  font-size: 16 px;
   color: gray;
   text-align: center;
-  padding: 14px 16px;
+  /*padding: 0px 16px;*/
   text-decoration: none;
-  width: 35%;
+  width: 45%;
+  height: 80%;
 }
 
 /* The dropdown container */
