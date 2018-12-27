@@ -9,7 +9,7 @@
   width: 60%;
 }
 
-/* Links inside the navbar */
+ /*Links inside the navbar */
 .navbar a {
   float: left;
   font-size: 16px;
@@ -36,7 +36,7 @@
   text-align: center;
   /*padding: 0px 16px;*/
   text-decoration: none;
-  width: 35%;
+  width: 3%;5
   height: 80%;
 }
 
@@ -95,4 +95,8 @@
 
 #active {
   background-color: green;
+}
+
+.logobar {
+	width: 1536px;
 }
