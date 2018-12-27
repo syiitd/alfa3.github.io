@@ -3,7 +3,7 @@
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
-  display: block;
+  /*display: block;*/
   margin-left: auto;
   margin-right: auto;
   width: 60%;
@@ -98,5 +98,5 @@
 }
 
 .logobar {
-	width: 1536px;
+	width: 1536;
 }
